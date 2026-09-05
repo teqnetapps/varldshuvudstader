@@ -51,8 +51,6 @@ We do not use information about how an individual user interacts with the app fo
 
 The app does not contain targeted advertising and does not use user data for advertising purposes.
 
-[Adapt this section if the app contains advertising.]
-
 5. Children's Privacy
 
 The app is intended to be used by children for educational and learning purposes.
