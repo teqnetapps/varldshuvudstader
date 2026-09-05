@@ -2,7 +2,7 @@ Privacy Policy
 
 Last updated: 5 Sept 2026
 
-This Privacy Policy explains how [App Name] handles information when you use the app.
+This Privacy Policy explains how Världens Huvudstäder handles information when you use the app.
 
 The app is designed for children and educational purposes. We take children's privacy particularly seriously and have therefore designed the app so that it does not collect, store, or share personal information about its users.
 
